@@ -1,5 +1,5 @@
 {
-    "name": "newism/craft3-fields",
+    "name": "esign/craft3-fields",
     "description": "Address, telephone and email fields for CraftCMS",
     "type": "craft-plugin",
     "keywords": [
